@@ -1,6 +1,6 @@
 > *"Code. Debug. Cry. Repeat."* – me, probably
 
-Hi! I’m Shreya/Shre – just a curious human messing around with Python, ML, and web dev 🐍🌐  
+Hi! I’m Shreya – just a curious human messing around with Python, ML, and web dev 🐍🌐  
 Currently exploring how to make cool things and occasionally break them (on purpose... maybe).
 
 ---
